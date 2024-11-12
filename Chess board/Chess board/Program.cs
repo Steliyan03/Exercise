@@ -1,4 +1,6 @@
-﻿namespace Chess_board
+using System;
+
+namespace Chess_board
 {
     internal class Program
     {
